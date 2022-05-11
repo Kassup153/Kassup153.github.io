@@ -1,0 +1,45 @@
+#sidebar {
+    font-family: Stylus BT;
+    float: left;
+    background-color: #e0ffff;
+    border-radius: 1em;
+    border: black 1px solid;
+    text-align: center;
+    position: fixed;
+    height: 97%;
+    width: 15vw;
+}
+
+article {
+    font-family: Stylus BT;
+    text-align: center;
+    margin-left: 16vw;
+}
+
+header {
+    font-family: Segoe Print;
+    background-color: #006dd4;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 78vw;
+}
+
+sup {
+    font-weight: normal;
+    font-size: 65%;
+}
+
+#name {
+    font-size: 200%;
+}
+
+#pghead {
+    text-align: center;
+    font-size: 175%;
+}
+
+body {
+    background-color: #e0ffff;
+    -ms-overflow-style: none;
+}
