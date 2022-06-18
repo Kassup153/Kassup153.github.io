@@ -20,3 +20,14 @@
     height: 97%;
     width: 15vw;
 }
+aside{
+  font-family: Stylus BT;
+  float: left;
+  background-color: #e0ffff;
+  border-radius: 1em;
+  border: black 1px solid;
+  text-align: center;
+  position: fixed;
+  height: 97%;
+  width: 15vw;
+}
